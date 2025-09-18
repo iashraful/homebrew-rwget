@@ -4,7 +4,7 @@
 class Rwget < Formula
   desc ""
   homepage "https://github.com/iashraful/rwget-downloader"
-  url "https://github.com/iashraful/rwget-downloader/archive/refs/tags/0.1.1.tar.gz"
+  url "https://github.com/iashraful/rwget-downloader/archive/refs/tags/0.1.2.tar.gz"
   sha256 "05af3fd8425e5c4d6c476d1edd5f0aea52f29e52ac759cda9fa2bfcf2c66f9a2"
   license "MIT"
   depends_on "rust" => :build
